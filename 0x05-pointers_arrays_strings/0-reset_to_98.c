@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * pointer to an int as parameter and updates the value it points to to 98
+ * pointer to an int as parameter and updates
  * the value points to 98
  *
  * An int input pointer
